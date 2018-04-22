@@ -1,0 +1,15 @@
+.resources
+{
+  padding: 0 80px;
+}
+.resources__title
+{
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+.resource
+{
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
